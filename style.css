@@ -13,3 +13,6 @@ header{
 footer{
     height: 5vh;
 }
+.contPrincipal{
+    display: flex;
+}
